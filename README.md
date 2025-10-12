@@ -1,7 +1,7 @@
 <!-- README.md no repositório JoaoOliveira2001/JoaoOliveira2001 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=2800&center=true&vCenter=true&lines=Olá%2C+eu+sou+JoaoOliveira;Dev+JS+%7C+Node+%7C+React;Automação+n8n+%7C+Blip;Dados+%7C+BI" />
+  <img src="https://readme-typing-svg.herokuapp.com?duration=2800&center=true&vCenter=true&lines=Olá%2C+eu+sou+Joao%Oliveira;Dev+JS+%7C+Node+%7C+React;Automação+n8n+%7C+Blip;Dados+%7C+BI" />
 </p>
 
 <p align="center">
