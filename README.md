@@ -1,25 +1,12 @@
-<!-- README.md no repositório JoaoOliveira2001/JoaoOliveira2001 -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=2800&center=true&vCenter=true&lines=Olá%2C+eu+sou+Joao+Oliveira;Dev+JS+%7C+Node+%7C+React;Automação+n8n+%7C+Blip;Dados+%7C+BI" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/JoaoOliveira2001">
-    <img src="https://komarev.com/ghpvc/?username=JoaoOliveira2001&label=visitas" />
-  </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-oliveira-618056215/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://wa.me/5511998836070">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-
-## sobre
-dev focado em node, react, automações e dados.
+<a href="https://github.com/JoaoOliveira2001">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoOliveira2001/JoaoOliveira2001/main/dark_mode.svg">
+    <img alt="João Victor's GitHub Profile" src="https://raw.githubusercontent.com/JoaoOliveira2001/JoaoOliveira2001/main/light_mode.svg">
+  </picture>
+</a>
 
 ## stack
+
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-333?logo=javascript" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-333?logo=typescript" />
@@ -33,19 +20,16 @@ dev focado em node, react, automações e dados.
 </p>
 
 ## destaques
+
 - portal de clientes/consultores (react + node + prisma + supabase)
 - automações n8n (hubspot/blip/whatsapp)
 - dashboards e análises (power bi/streamlit)
 
-## stats
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JoaoOliveira2001&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoOliveira2001&layout=compact&langs_count=8" />
-</p>
+## projetos
 
-## últimos projetos
 - [portal-ynova-backoffice](https://github.com/integration2u-lab/portal-ynova-backoffice)
 
 ## contato
-- linkedin: https://www.linkedin.com/in/jo%C3%A3o-oliveira-618056215/
-- whatsapp: +55 11 99883-6070
+
+- [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-oliveira-618056215/)
+- [WhatsApp](https://wa.me/5511998836070)
